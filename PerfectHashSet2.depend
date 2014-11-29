@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1417213951 source:c:\users\andrey\documents\Ñprojects\perfecthashset2\main.cpp
+	<iostream>
+	"test.h"
+
+1417292028 c:\users\andrey\documents\Ñprojects\perfecthashset2\perfecthashtable.h
+	"hash.h"
+	"innerhashtable.h"
+
+1417292106 c:\users\andrey\documents\Ñprojects\perfecthashset2\hash.h
+	<random>
+
+1417292853 c:\users\andrey\documents\Ñprojects\perfecthashset2\innerhashtable.h
+	"exceptions.h"
+
+1417202955 c:\users\andrey\documents\Ñprojects\perfecthashset2\exceptions.h
+	<cassert>
+	<sstream>
+
+1417292888 c:\users\andrey\documents\Ñprojects\perfecthashset2\test.h
+	<iostream>
+	<vector>
+	<cstdlib>
+	<algorithm>
+	<random>
+	<set>
+	"perfecthashtable.h"
+
